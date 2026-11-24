@@ -42,7 +42,9 @@ pip show pyrebase4 | grep -E '^(Name|Version|Summary):'
 
 위 명령어를 실행한 결과 Pyrebase4의 이름과 버전 정보가 정상적으로 출력되었으며, 이를 통해 라이브러리가 정상적으로 설치된 것을 확인할 수 있다.
 
-![Pyrebase4 설치 확인]({{ site.baseurl }}/assets/images/pyrebase-install.png)
+<img src="https://raw.githubusercontent.com/inoyashii/skills-github-pages/main/assets/images/pyrebase-install.png"
+     alt="Pyrebase4 설치 확인"
+     width="700">
 
 ## 3. Firebase 프로젝트 설정하기
 
