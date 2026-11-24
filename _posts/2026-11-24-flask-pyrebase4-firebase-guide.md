@@ -44,6 +44,7 @@ pip show pyrebase4 | grep -E '^(Name|Version|Summary):'
 
 > 이 단계의 목적은 아직 Firebase와 직접 연결하는 것이 아니라, Flask 프로젝트에서 Firebase를 사용할 수 있도록 필요한 Python 라이브러리를 준비하는 것이다.
 
+![Pyrebase4 설치 확인](/skills-github-pages/assets/images/pyrebase-install.png)
 
 ## 3. Firebase 프로젝트 설정하기
 
